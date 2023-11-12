@@ -1,0 +1,36 @@
+table {
+  border-collapse: collapse;
+}
+td {
+  border: 10px solid black;
+  height: 75px;
+  width: 75px;
+}
+.black {
+  background-color: black;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+}
+.w5 {
+  width: 5px;
+}
+.red_square{
+  height: 350px;
+  width: 350px;
+}
+.h175{
+  height: 175px;
+}
+.w175{
+  width: 175px;
+}
+.h10{
+  height: 10px;
+}
